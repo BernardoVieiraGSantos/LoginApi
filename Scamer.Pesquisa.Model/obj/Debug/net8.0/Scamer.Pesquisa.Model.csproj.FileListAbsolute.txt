@@ -1,0 +1,11 @@
+C:\Users\Público\Downloads\ScamerAPI\ScamerAPI\Scamer.Pesquisa.Model\bin\Debug\net8.0\Scamer.Pesquisa.Model.deps.json
+C:\Users\Público\Downloads\ScamerAPI\ScamerAPI\Scamer.Pesquisa.Model\bin\Debug\net8.0\Scamer.Pesquisa.Model.dll
+C:\Users\Público\Downloads\ScamerAPI\ScamerAPI\Scamer.Pesquisa.Model\bin\Debug\net8.0\Scamer.Pesquisa.Model.pdb
+C:\Users\Público\Downloads\ScamerAPI\ScamerAPI\Scamer.Pesquisa.Model\obj\Debug\net8.0\Scamer.Pesquisa.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Público\Downloads\ScamerAPI\ScamerAPI\Scamer.Pesquisa.Model\obj\Debug\net8.0\Scamer.Pesquisa.Model.AssemblyInfoInputs.cache
+C:\Users\Público\Downloads\ScamerAPI\ScamerAPI\Scamer.Pesquisa.Model\obj\Debug\net8.0\Scamer.Pesquisa.Model.AssemblyInfo.cs
+C:\Users\Público\Downloads\ScamerAPI\ScamerAPI\Scamer.Pesquisa.Model\obj\Debug\net8.0\Scamer.Pesquisa.Model.csproj.CoreCompileInputs.cache
+C:\Users\Público\Downloads\ScamerAPI\ScamerAPI\Scamer.Pesquisa.Model\obj\Debug\net8.0\Scamer.Pesquisa.Model.dll
+C:\Users\Público\Downloads\ScamerAPI\ScamerAPI\Scamer.Pesquisa.Model\obj\Debug\net8.0\refint\Scamer.Pesquisa.Model.dll
+C:\Users\Público\Downloads\ScamerAPI\ScamerAPI\Scamer.Pesquisa.Model\obj\Debug\net8.0\Scamer.Pesquisa.Model.pdb
+C:\Users\Público\Downloads\ScamerAPI\ScamerAPI\Scamer.Pesquisa.Model\obj\Debug\net8.0\ref\Scamer.Pesquisa.Model.dll

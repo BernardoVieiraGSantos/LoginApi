@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\P\u00FAblico\\Downloads\\ScamerAPI\\ScamerAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26EE3284-6505-4DED-8A61-54623E2BAF5A}|Scamer.Pesquisa\\Scamer.Pesquisa.csproj|c:\\users\\p\u00FAblico\\downloads\\scamerapi\\scamerapi\\scamer.pesquisa\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26EE3284-6505-4DED-8A61-54623E2BAF5A}|Scamer.Pesquisa\\Scamer.Pesquisa.csproj|solutionrelative:scamer.pesquisa\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E1BBAE-86F5-4DF7-88BE-F18B64C50741}|Scamer.Pesquisa.Model\\Scamer.Pesquisa.Model.csproj|c:\\users\\p\u00FAblico\\downloads\\scamerapi\\scamerapi\\scamer.pesquisa.model\\login\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E1BBAE-86F5-4DF7-88BE-F18B64C50741}|Scamer.Pesquisa.Model\\Scamer.Pesquisa.Model.csproj|solutionrelative:scamer.pesquisa.model\\login\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26EE3284-6505-4DED-8A61-54623E2BAF5A}|Scamer.Pesquisa\\Scamer.Pesquisa.csproj|c:\\users\\p\u00FAblico\\downloads\\scamerapi\\scamerapi\\scamer.pesquisa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26EE3284-6505-4DED-8A61-54623E2BAF5A}|Scamer.Pesquisa\\Scamer.Pesquisa.csproj|solutionrelative:scamer.pesquisa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E1BBAE-86F5-4DF7-88BE-F18B64C50741}|Scamer.Pesquisa.Model\\Scamer.Pesquisa.Model.csproj|c:\\users\\p\u00FAblico\\downloads\\scamerapi\\scamerapi\\scamer.pesquisa.model\\usuario\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E1BBAE-86F5-4DF7-88BE-F18B64C50741}|Scamer.Pesquisa.Model\\Scamer.Pesquisa.Model.csproj|solutionrelative:scamer.pesquisa.model\\usuario\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26EE3284-6505-4DED-8A61-54623E2BAF5A}|Scamer.Pesquisa\\Scamer.Pesquisa.csproj|c:\\users\\p\u00FAblico\\downloads\\scamerapi\\scamerapi\\scamer.pesquisa\\controllers\\relatorios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26EE3284-6505-4DED-8A61-54623E2BAF5A}|Scamer.Pesquisa\\Scamer.Pesquisa.csproj|solutionrelative:scamer.pesquisa\\controllers\\relatorios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "loginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\P\u00FAblico\\Downloads\\ScamerAPI\\ScamerAPI\\Scamer.Pesquisa.Model\\Login\\loginResponse.cs",
+              "RelativeDocumentMoniker": "Scamer.Pesquisa.Model\\Login\\loginResponse.cs",
+              "ToolTip": "C:\\Users\\P\u00FAblico\\Downloads\\ScamerAPI\\ScamerAPI\\Scamer.Pesquisa.Model\\Login\\loginResponse.cs",
+              "RelativeToolTip": "Scamer.Pesquisa.Model\\Login\\loginResponse.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T21:25:37.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Relatorios.cs",
+              "DocumentMoniker": "C:\\Users\\P\u00FAblico\\Downloads\\ScamerAPI\\ScamerAPI\\Scamer.Pesquisa\\Controllers\\Relatorios.cs",
+              "RelativeDocumentMoniker": "Scamer.Pesquisa\\Controllers\\Relatorios.cs",
+              "ToolTip": "C:\\Users\\P\u00FAblico\\Downloads\\ScamerAPI\\ScamerAPI\\Scamer.Pesquisa\\Controllers\\Relatorios.cs",
+              "RelativeToolTip": "Scamer.Pesquisa\\Controllers\\Relatorios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T14:23:50.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "usuario.cs",
+              "DocumentMoniker": "C:\\Users\\P\u00FAblico\\Downloads\\ScamerAPI\\ScamerAPI\\Scamer.Pesquisa.Model\\Usuario\\usuario.cs",
+              "RelativeDocumentMoniker": "Scamer.Pesquisa.Model\\Usuario\\usuario.cs",
+              "ToolTip": "C:\\Users\\P\u00FAblico\\Downloads\\ScamerAPI\\ScamerAPI\\Scamer.Pesquisa.Model\\Usuario\\usuario.cs",
+              "RelativeToolTip": "Scamer.Pesquisa.Model\\Usuario\\usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:12:53.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "loginController.cs",
+              "DocumentMoniker": "C:\\Users\\P\u00FAblico\\Downloads\\ScamerAPI\\ScamerAPI\\Scamer.Pesquisa\\Controllers\\loginController.cs",
+              "RelativeDocumentMoniker": "Scamer.Pesquisa\\Controllers\\loginController.cs",
+              "ToolTip": "C:\\Users\\P\u00FAblico\\Downloads\\ScamerAPI\\ScamerAPI\\Scamer.Pesquisa\\Controllers\\loginController.cs",
+              "RelativeToolTip": "Scamer.Pesquisa\\Controllers\\loginController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:40:20.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\P\u00FAblico\\Downloads\\ScamerAPI\\ScamerAPI\\Scamer.Pesquisa\\Program.cs",
+              "RelativeDocumentMoniker": "Scamer.Pesquisa\\Program.cs",
+              "ToolTip": "C:\\Users\\P\u00FAblico\\Downloads\\ScamerAPI\\ScamerAPI\\Scamer.Pesquisa\\Program.cs",
+              "RelativeToolTip": "Scamer.Pesquisa\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:31:17.532Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

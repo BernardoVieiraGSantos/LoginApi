@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'Scamer.Faculdade' " />
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNet.Cors" Version="5.3.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authorization" Version="8.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Scamer.Pesquisa.Model\Scamer.Pesquisa.Model.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+    <ProjectReference Include="..\Scamer.Pesquisa.DAO\Scamer.Pesquisa.DAO.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+    <ProjectReference Include="..\Scamer.Pesquisa.DAO\Scamer.Pesquisa.DAO.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+    <ProjectReference Include="..\Scamer.Pesquisa.Model\Scamer.Pesquisa.Model.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Autenticacao\Models\AuthenticateModel.cs" />
+    <Compile Remove="Autenticacao\Helpers\BasicAuthenticationHandler.cs" />
+    <Compile Remove="Autenticacao\Helpers\ExtensionMethods.cs" />
+    <Compile Remove="Autenticacao\Services\UserService.cs" />
+    <Compile Remove="Autenticacao\Entities\User.cs" />
+  </ItemGroup>
+</Project>

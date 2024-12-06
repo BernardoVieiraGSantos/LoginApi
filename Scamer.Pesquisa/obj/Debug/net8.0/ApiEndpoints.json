@@ -1,0 +1,113 @@
+[
+  {
+    "ContainingType": "Scamer.Pesquisa.Controllers.Relatorios",
+    "Method": "GetRelatorios",
+    "RelativePath": "{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Scamer.Pesquisa.Controllers.Relatorio, Scamer.Pesquisa, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Scamer.Pesquisa.Controllers.loginController",
+    "Method": "Login",
+    "RelativePath": "autenticar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginRequest",
+        "Type": "RelatoriosAPI.Models.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "RelatoriosAPI.Models.LoginResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Scamer.Faculdade.Controllers.PesquisaFaculdadeController",
+    "Method": "Set_Login",
+    "RelativePath": "V1/Auth/{ds_Login}/{ds_Senha}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ds_Login",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "ds_Senha",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Scamer.Faculdade.Controllers.PesquisaFaculdadeController",
+    "Method": "Get_Pesquisa",
+    "RelativePath": "V1/Pesquisa/{cd_Usuario_Pesquisa}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cd_Usuario_Pesquisa",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Scamer.Faculdade.Controllers.PesquisaFaculdadeController",
+    "Method": "Set_Incluir_Avaliacao_Satisfacao",
+    "RelativePath": "V1/Pesquisa/Avaliacao",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objPesquisaForm",
+        "Type": "Scamer.Faculdade.Model.Pergunta.PerguntaForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Scamer.Faculdade.Controllers.PesquisaFaculdadeController",
+    "Method": "Get_Media",
+    "RelativePath": "V1/Pesquisa/Media/Avaliacoes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,17 @@
+C:\Users\Público\Downloads\ScamerAPI\ScamerAPI\Scamer.Pesquisa.DAO\bin\Debug\net8.0\Scamer.Pesquisa.DAO.deps.json
+C:\Users\Público\Downloads\ScamerAPI\ScamerAPI\Scamer.Pesquisa.DAO\bin\Debug\net8.0\Scamer.Pesquisa.DAO.dll
+C:\Users\Público\Downloads\ScamerAPI\ScamerAPI\Scamer.Pesquisa.DAO\bin\Debug\net8.0\Scamer.Pesquisa.DAO.pdb
+C:\Users\Público\Downloads\ScamerAPI\ScamerAPI\Scamer.Pesquisa.DAO\bin\Debug\net8.0\Scamer.Pesquisa.Conexao.dll
+C:\Users\Público\Downloads\ScamerAPI\ScamerAPI\Scamer.Pesquisa.DAO\bin\Debug\net8.0\Scamer.Pesquisa.Model.dll
+C:\Users\Público\Downloads\ScamerAPI\ScamerAPI\Scamer.Pesquisa.DAO\bin\Debug\net8.0\Scamer.Pesquisa.Model.pdb
+C:\Users\Público\Downloads\ScamerAPI\ScamerAPI\Scamer.Pesquisa.DAO\bin\Debug\net8.0\Scamer.Pesquisa.Conexao.pdb
+C:\Users\Público\Downloads\ScamerAPI\ScamerAPI\Scamer.Pesquisa.DAO\obj\Debug\net8.0\Scamer.Pesquisa.DAO.csproj.AssemblyReference.cache
+C:\Users\Público\Downloads\ScamerAPI\ScamerAPI\Scamer.Pesquisa.DAO\obj\Debug\net8.0\Scamer.Pesquisa.DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Público\Downloads\ScamerAPI\ScamerAPI\Scamer.Pesquisa.DAO\obj\Debug\net8.0\Scamer.Pesquisa.DAO.AssemblyInfoInputs.cache
+C:\Users\Público\Downloads\ScamerAPI\ScamerAPI\Scamer.Pesquisa.DAO\obj\Debug\net8.0\Scamer.Pesquisa.DAO.AssemblyInfo.cs
+C:\Users\Público\Downloads\ScamerAPI\ScamerAPI\Scamer.Pesquisa.DAO\obj\Debug\net8.0\Scamer.Pesquisa.DAO.csproj.CoreCompileInputs.cache
+C:\Users\Público\Downloads\ScamerAPI\ScamerAPI\Scamer.Pesquisa.DAO\obj\Debug\net8.0\Scamer.P.92C08F09.Up2Date
+C:\Users\Público\Downloads\ScamerAPI\ScamerAPI\Scamer.Pesquisa.DAO\obj\Debug\net8.0\Scamer.Pesquisa.DAO.dll
+C:\Users\Público\Downloads\ScamerAPI\ScamerAPI\Scamer.Pesquisa.DAO\obj\Debug\net8.0\refint\Scamer.Pesquisa.DAO.dll
+C:\Users\Público\Downloads\ScamerAPI\ScamerAPI\Scamer.Pesquisa.DAO\obj\Debug\net8.0\Scamer.Pesquisa.DAO.pdb
+C:\Users\Público\Downloads\ScamerAPI\ScamerAPI\Scamer.Pesquisa.DAO\obj\Debug\net8.0\ref\Scamer.Pesquisa.DAO.dll
